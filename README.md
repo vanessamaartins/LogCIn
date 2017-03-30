@@ -5,7 +5,7 @@ Projeto para criar uma aplicação de controle de materias de consumo, equipamen
 
 Objetivo
 
-O Objetivo desse projeto é desenvolver uma ferramenta simples baseado nas necessidades reais de um cliente com intuito de melhorar         o controle patrimonial e as demandas da gerencia de infraestrutura do CIn.
+O Objetivo desse projeto é desenvolver uma ferramenta simples, baseada nas necessidades reais de um cliente, com intuito de melhorar         o controle patrimonial e as demandas da gerencia de infraestrutura do CIn.
 
 
 Descrição
@@ -20,9 +20,9 @@ Equipe:
 
 Djailson Bezerra: Product Owner
 
-Elther Demetrio: Desesnvolvedor
+Elther Demetrio: Desenvolvedor
 
-Gerson Braga: Desesnvolvedor
+Gerson Braga: Desenvolvedor
 
-Vanessa Martins:Gerente de Projeto
+Vanessa Martins: Gerente de Projeto
 
